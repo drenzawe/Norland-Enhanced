@@ -1,4 +1,4 @@
-Norland Enhanced Mod
+# Norland Enhanced Mod
 
 Changelog v1.0
 - Increase 100 gold per Bandit kill
