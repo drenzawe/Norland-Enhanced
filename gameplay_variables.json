@@ -1,0 +1,276 @@
+{
+	"global_map": {
+		"trade_paper_cost": {
+			"easy": 1,
+			"normal": 1,
+			"hard": 3
+		},
+		"bandit_camp": {
+			"gold_for_one_bandit": 100
+		},
+		"ai_economy": {
+			"gdp_k1": -330,
+			"soldier_discount": 0,
+			"initial_budget": 1000,
+			"soldier_support_price": 10,
+			"army_budget_factor": 0.4
+		},
+		"attack_one_target_cooldown_turns": 0.8,
+		"global_map_defence_alliance_create_cooldown_before_onboard": 3.5,
+		"sir_gdp_factor": 5,
+		"defence_alliance_create_cooldown": 3.5,
+		"ai_force": {
+			"cooldown": 1.5,
+			"cooldown_before_onboard": 2.5,
+			"cooldown_faceless": 2.5
+		},
+		"vassal": {
+			"tribute_factor": 1
+		},
+		"trade_quests_chance": 0.35,
+		"decoration_per_day": {
+			"max": 7
+		},
+		"ai_king_abuse_chance": 0.25
+	},
+	"actor": {
+		"panic_run": 1.4160000085830688,
+		"bravery_threshold_loyalty_factor": 0.15,
+		"battle_skill_increase_in_fight": 1.5,
+		"nectar_rage_chance_max": 0.5,
+		"matching_for_love_threshold": 60,
+		"patrol_view_cells": 10,
+		"child": {
+			"age_exp_limit": 21,
+			"education_exp_factor": 5
+		},
+		"talent_expirience_gain": 5,
+	},
+	"bandits": {
+		"maximum_command_skill_level": 10
+	},
+	"squad": {
+		"collision_push": {
+			"min": 172,
+			"max": 172
+		},
+		"banner_size": {
+			"min": 0.36899998784065247,
+			"max": 1
+		}
+	},
+	"prestige": {
+		"for_knowledge_mid": 10,
+		"for_population": 1,
+		"for_knowledge_low": 5,
+		"for_allias_population": 1,
+		"for_decoration": 3,
+		"for_knowledge_high": 15
+	},
+	"trait": {
+		"insightful_call_chance": 0.10000000149011612
+	},
+	"building": {
+		"open_zoom": 0.50199997425079346,
+		"breakdown_chance": 0.15000000596046448
+	},
+	"migration": {
+		"happiness_base": 20,
+		"happiness_factor": 7,
+		"workplaces_factor": 0.029999999329447746
+	},
+	"gallows": {
+		"punishment_watch_radius": 10
+	},
+	"trees": {
+		"number_of_woods": 10,
+		"number_of_woods_hard": 10
+	},
+	"pregnancy": {
+		"chance": 0.5,
+		"from_dummy_chance": 0.30000001192092896
+	},
+	"loyalty": {
+		"increase_default": 0.15,
+		"king_relations_factor": 0.7,
+		"increase_happy": 6,
+		"decrease_unhappy": -6,
+		"bribe_factor": 6
+	},
+	"game": {
+		"death_chance_mult": 1.25
+	},
+	"inspection": {
+		"performance": {
+			"progressive": 0.03,
+			"base_factor": 1.045,
+			"base": 1.2
+		}
+	},
+	"executor_work": {
+		"intimidate_talk_minutes": 60,
+		"witness_talk_minutes": 30,
+		"intimidation_duration": 2,
+		"witness_count": 2
+	},
+	"wolves": {
+		"max_distance_in_cells": 10,
+		"wolves_max_distance_to_atack_in_cells": 7
+	},
+	"bribe": {
+		"cooldown": 12,
+		"leave_chance": 0.25,
+		"add_opinion": 0.15,
+		"give_rings": 10,
+		"loss_loyalty": 25
+	},
+	"skill": {
+		"increase_in_use": {
+			"command": 2,
+			"education": 2,
+			"negotiation": 6,
+			"manners": 2,
+			"oratory": 4,
+			"management": 1,
+			"knowledge": 0.25
+		}
+	},
+	"bush": {
+		"berry_renew_percent": 0.35,
+		"renew_percent": 0.45
+	},
+	"render": {
+		"border_offset": 8,
+		"quest_token_size": 72.726997375488281,
+		"border_width": 52,
+		"border_radius_factor": 2.4000000953674316,
+		"quest_avatar_scale": 0.55000001192092896
+	},
+	"free_lord": {
+		"stay_duration": 10,
+		"ring_by_n_levels": 3
+	},
+	"combat_training": {
+		"exp_per_trainer_level": 0.05,
+		"skill_points": 0.2
+	},
+	"church": {
+		"max_capacity": 50
+	},
+	"farm": {
+		"hop": {
+			"duration": 3.5,
+			"grow_cost": 1.2
+		},
+		"carrot": {
+			"duration": 1.5,
+			"grow_cost": 1.3
+		},
+		"swede": {
+			"duration": 1.5,
+			"grow_cost": 0.7
+		},
+		"rye": {
+			"duration": 3.5,
+			"grow_cost": 0.8
+		}
+	},
+	"genius_king": {
+		"contempt_strength": -35,
+		"gdp_factor": 4,
+		"appear_chance": 0.20000000298023224,
+		"number_on_start": 3,
+		"army_multiply_factor": 2,
+		"max_number_in_world": 4,
+		"army_budget_factor": 2
+	},
+	"dummy": {
+		"leave_to_forest_chance": 30,
+		"thug_combat_level": {
+			"min": 2,
+			"max": 7
+		},
+		"join_to_thug_when_punish": 1,
+		"turn_to_bandit_chance": 35,
+		"steal_minimal_val": 10,
+		"criminal_days_to_thug": 3,
+		"steal_maximal_val": 20
+	},
+	"dialogue": {
+		"zoom_border": 0.50499999523162842
+	},
+	"battle": {
+		"skill_tickets": {
+			"change_factor": 1,
+			"enabled": 1,
+			"zero_factor": 0.10000000149011612
+		},
+		"lottery_tickets": {
+			"shield_defence_from_arrows_tanaya": 1000,
+			"shield_defence_from_arrows": 500
+		}
+	},
+	"book": {
+		"rewrite_paper_cost": 1
+	},
+	"tavern": {
+		"max_capacity": 50
+	},
+	"moral": {
+		"leaving_to_forest": 7
+	},
+	"knowledge": {
+		"price_trader": 100,
+		"price_our": 70
+	},
+	"paper": {
+		"messenger_cost ": 1
+	},
+	"slave": {
+		"cost": 50,
+		"sex_dayly_chance": 0.8,
+		"combat_level_cost": 10,
+		"sex_auto_luck": 3,
+		"pregnant_chance": 40,
+		"slowdown_cost": 10,
+		"without_free_mind_cost": 10,
+		"fertility_cost": 5,
+		"age_cost": 5,
+		"trauma_cost": 40
+	},
+	"mind": {
+		"crime_victim": -18,
+		"crime_not_punished_modify": -7,
+		"battle_enemy_commander_retreat": {
+			"modify": 15
+		},
+		"quality_of_life_high": {
+			"modify": 25
+		},
+		"battle_enemy_commander_dead": {
+			"modify": 20
+		},
+		"limit_most_powerful_minds": 5,
+		"fatigue_from_inspection": {
+			"modify": -5
+		},
+		"fatigue_from_work": {
+			"modify": -10,
+			"duration": 72
+		},
+		"battle_enemy_soldier_retreat": {
+			"modify": 6
+		},
+		"battle_commander_bonus_factor": 5
+	},
+	"camera": {
+		"smooth_move_speed": 5.3509998321533203
+	},
+	"soldier": {
+		"bow": {
+			"prepare_time": 3.5
+		},
+		"cost_for_combat_level": 20,
+		"distance_to_patrol": 7
+	}
+}
