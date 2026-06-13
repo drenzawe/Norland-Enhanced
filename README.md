@@ -1,0 +1,42 @@
+Norland Enhanced Mod
+
+Changelog v1.0
+- Increase 100 gold per Bandit kill
+- Increase AI Budget to 1000
+- Increase AI Army factor chance to 40%
+- Decrease AI Target turns cooldown to 0.8%
+- Decrease AI Alliance create cooldown by 50%
+- Decrease AI Force cooldown to 50%
+- Decrease AI Before on board cooldown by 50%
+- Decrease AI Faceless cooldown by 50%
+- Decrease Trade Guest chance to 35%
+- Increase the AI King abuse chance to 25%
+- Increase Bravery loyalty factor to 15%
+- Increase Battle skill gain in a fight by 50%
+- Increase the Patrol range to 10 cells
+- Increase the Child education exp factor to 5
+- Increase Bandit command skill level to 10
+- Increase wood production to 10 per tree
+- Increase Loyalty default by 15%
+- Increase King loyalty factor by 20%
+- Increase Happiness by 1
+- Increase Unhappiness by 1
+- Increase Bribe factor by 1
+- Increase Death chance by 25%
+- Increase Wolves range by 2
+- Increase Wolves distance to attack by 2
+- Increase opinion in bribe by 15%
+- Increase Berry renew percent by 15%
+- Increase Exp per trainer level by 5%
+- Increase skill point by 10%
+- Decrease hop, carrot, swede and rye grow cost by 10%
+- Increase Thug leave to forest chance by 10
+- Increase Thug max combat level by 3
+- Decrease Book rewrite cost to 1
+- Increase Tavern capacity to 50
+- Increase Slave sex chance to 80%
+- Increase Slave pregnancy chance to 40%
+- Increase Battle commander bonus by 3
+- Increase Distance to patrol by 4
+- Decrease Bow prepare time by 1.5
+- Increase number of patrols in battle by 2
